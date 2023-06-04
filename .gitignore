@@ -1,0 +1,6 @@
+.env
+client.json
+credentials.json
+token.pickle
+*.db
+*.pyc
